@@ -33,5 +33,5 @@ To install:
 
     pip install pyautogui
 
-### Made by @PndaBoi, Hope it helps! :)
+### Made by me, Hope it helps! :)
 
